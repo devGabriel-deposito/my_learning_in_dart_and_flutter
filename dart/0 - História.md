@@ -1,0 +1,9 @@
+O Dart é uma linguagem `multiparadigma`, `funcional`, `imperativa` e `orientada a objetos`. Projetada por Lars Bak (criou o projeto e coordenou o desenvolvimento do V8) e Kasper Lund e desenvolvida pela Google. A linguagem foi apresentada pela primeira vez, na conferência GOTO em Aarhus, Dinamarca, de 10 as 12 de outubro de 2011. Lars e Kasper fundaram o projeto. Enfim, a primeira versão do Dart, a 1.0, foi lançada então em 14 de novembro de 2013. 
+
+Devido ao plano e a razão pela qual o Dart foi desenvolvido, que era incluir uma nova linguagem na web, para concorrer com o JS e então substituí-lo, a sua recepção foi mista. Muitos criticaram a iniciativa pelo fato de fragmentar a web devido então, ao plano de incluir o VM Dart no Chrome. Este plano foi abandonado pela equipe de desenvolvimento do Dart no ano de 2015 com o lançamento da versão 1.9. Daí então, o foco mudou para compilar o código Dart para JS.
+
+O Dart 2.0 foi lançado em agosto de 2018 com alterações de idioma, incluindo um sistema de tipos.
+
+O Dart 2.6 introduziu uma nova extensão, `dart2native`. Esta compilação nativa estendida para as plataformas de desktop Linux, macOS e Windows. Os desenvolvedores anteriores podiam criar novas ferramentas usando apenas dispositivos Android ou iOS. Com esta extensão, os desenvolvedores poderiam implantar um programa em executáveis ​​independentes. O Dart SDK não precisa ser instalado para executar esses executáveis ​​independentes. O framework Flutter integra o Dart, para que possa compilar em pequenos serviços, como suporte de back-end.
+
+O Dart 3.0 mudou o sistema de tipos para exigir segurança nula sonora. Esta versão incluiu novos recursos como registros, padrões, e modificadores de classe. Dart 3 também apresentou suporte para Web Assembly.
